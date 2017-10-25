@@ -1,16 +1,16 @@
 {
-  "name": "stex",
-  "version": "0.2.0",
-  "description": "An opinionated framework built on top of expressjs used to build better web services for stellar",
+  "name": "stexk",
+  "version": "0.2.1",
+  "description": "An opinionated framework built on top of expressjs used to build better web services for stellar, but it tired",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/stex"
+    "url": "https://github.com/BlackBeetleHub/stex"
   },
-  "author": "Scott Fleckenstein",
+  "author": "BlackBeetleHub",
   "license": "MIT",
   "bin": {
     "stex": "./bin/stex"
